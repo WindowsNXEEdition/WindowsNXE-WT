@@ -1,0 +1,2 @@
+ sounds: {
+           boot: 'Startup.ogg'
